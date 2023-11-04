@@ -1,65 +1,63 @@
-# Success Kingsley
+# Success Kingsley | Frontend Engineer | React | JavaScript
 
-Welcome! I’m Success, a front-end engineer committed to developing responsive and effective user-friendly interfaces. I look forward to collaborating on innovative projects.
+Welcome to my profile! I am passionate about creating cutting-edge front-end solutions and strive to deliver top-notch user experiences.
 
-📬 Email: [successxodev@gmail.com](mailto:successxodev@gmail.com)  
-🔗 LinkedIn: [snrjsdev](https://www.linkedin.com/in/snrjsdev)  
-🌍 Portfolio: [geniuskingsley.dev](https://geniuskingsley.dev)
+📬 **Contact Me**: successxodev@gmail.com  
+🔗 **LinkedIn**: [snrjsdev](https://www.linkedin.com/in/snrjsdev)  
+🌍 **Portfolio**: [geniuskingsley.dev](https://geniuskingsley.dev)
 
 ## Summary
 
-In my 2 years as a frontend developer, I've sharpened my expertise in React, JavaScript, TypeScript, and software design patterns. My approach revolves around solving user problems with clear communication and a robust debugging strategy. My contributions have significantly improved the user interfaces and experiences across various projects.
+Frontend engineer with 2+ years of experience in building responsive and user-friendly interfaces with React, JavaScript, TypeScript, and software design patterns. Expertise in solving user problems with clear communication and a robust debugging strategy. Contributions have significantly improved the user interfaces and experiences across various projects.
 
 ## Work Experience
 
 ### Frontend Engineer at World Wide Techies (TalentYard) - Remote
-- Apr 2023 - Sep 2023
-- 🔥 Implemented Firebase chat features and React live streaming components.
-- 🛠️ Authored comprehensive README documentation for internal use.
+
+- **Skills:** React, Firebase, live streaming
+- **Accomplishments:** Implemented Firebase chat features and React live streaming components. Authored comprehensive README documentation for internal use.
 
 ### Frontend Engineer at JSCODESPACE - Montreal, QC
-- Apr 2022 - Feb 2023
-- 📚 Enhanced a learning management system, integrating Monaco editor with React.
-- 🛡️ Developed security features and improved platform performance.
+
+- **Skills:** React, Monaco editor, security features
+- **Accomplishments:** Enhanced a learning management system by integrating Monaco editor with React. Developed security features and improved platform performance.
 
 ### Full Stack Intern at NIIT - Lagos, Nigeria
-- May 2021 - Jul 2022
-- 🚀 Built a Python-based task tracking system and secure code execution scripts.
+
+- **Skills:** Python, task tracking, secure coding
+- **Accomplishments:** Built a Python-based task tracking system and secure code execution scripts.
 
 ## Projects
 
 ### [3D Shirt Customizer Fashion](https://threejs-design.vercel.app) - Fashion
-- Jun 2023 - Aug 2023
-- Developed a 3D customization tool improving user interaction and load times.
 
-## Contributions
+- **Skills:** React, 3D customization, performance optimization
+- **Accomplishments:** Developed a 3D customization tool improving user interaction and load times.
+
+## GitHub Stats
+
 ![Success's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xosnrdev&theme=dark&background=000000)
 
 ## Awards
 
-- 🏆 Programming with Python - NIIT, 2023
+- *Programming with Python* - NIIT, 2023
 
 ## Education
 
-- Higher National Diploma from Ogun State Institute of Technology, Ogun State, Nigeria - 2021
+- *Higher National Diploma* - Ogun State Institute of Technology, Nigeria, 2021
 
-## Skills
+## Skills & Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-1572B6?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) React
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) TypeScript
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) JavaScript
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) Python
+- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js) Node.js
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb) MongoDB
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) AWS
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) Docker
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) Git
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) Figma
 
 ## Agile & Design Patterns
 
@@ -68,4 +66,4 @@ In my 2 years as a frontend developer, I've sharpened my expertise in React, Jav
 - SOLID Principles
 - SCRUM
 
-Let's connect and make your next project a success!
+Let's connect and explore how we can make your next project a success together!
