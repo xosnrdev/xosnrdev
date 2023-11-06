@@ -1,4 +1,4 @@
-# Success Kingsley | Frontend Engineer | React | JavaScript
+# Success Kingsley
 
 Welcome to my profile! I am passionate about creating cutting-edge front-end solutions and strive to deliver top-notch user experiences.
 
