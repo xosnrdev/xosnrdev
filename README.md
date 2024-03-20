@@ -9,10 +9,6 @@
 
 ##### Backend
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=292e33)](https://nodejs.org/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=292e33)](https://www.php.net/ "PHP Certified")
-
-##### Systems Programming
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=%23F9A03C&labelColor=666666)](https://www.rust-lang.org/ "Rust Certified")
-[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=666666)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=292e33)](https://golang.org/)
 
 ![Success's profile views](https://komarev.com/ghpvc/?username=xosnrdev&color=lightgrey)
