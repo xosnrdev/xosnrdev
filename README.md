@@ -27,13 +27,3 @@ me.say_hi()
 ## 🔥 Github Streaks
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=xosnrdev&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xosnrdev&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🤩 Feeling Generous ?
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/successxodg)
-
-!["Footer Wave"](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
