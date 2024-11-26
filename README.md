@@ -23,7 +23,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+Passionate about: 🦀 Rust | 🧮 Functional Programming | 🐧 Linux
 
+Steering clear of: ☕ Java, C#, etc.
 ## 🔥 Github Streaks
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=xosnrdev&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
